@@ -42,6 +42,8 @@ Ir lights:
 ![](photos/IMG_20240801_001451.jpg)  
 ![](photos/IMG_20240801_001457.jpg)  
 
+L-34F3C infrared LEDs are used for IR lights. [Datasheet](L-34F3C(Ver.19A).pdf)  
+
 Usage instruction (see `light_gun.ino` file):  
 ````C++
 // Reciever led very fast alternate blink: camera is disconnected
