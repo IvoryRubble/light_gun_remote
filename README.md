@@ -3,6 +3,8 @@
 
 Video demo:  
 https://youtu.be/HeBRopewjwI  
+[![Video demo](https://img.youtube.com/vi/HeBRopewjwI/0.jpg)](https://www.youtube.com/watch?v=HeBRopewjwI)
+
 
 Fully set up "arcade cabinet":  
 ![](photos/20240730_222419.jpg)    
