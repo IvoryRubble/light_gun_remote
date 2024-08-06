@@ -62,8 +62,11 @@ Usage instruction (see `light_gun.ino` file):
 Wiring inside the gun:
 ![](photos/20231119_163345.jpg)  
 
-First prototype video demos:
-
+First prototype video demos:  
+https://youtu.be/cEvMrEhZWUk
+[![Video demo](https://img.youtube.com/vi/cEvMrEhZWUk/0.jpg)](https://www.youtube.com/watch?v=cEvMrEhZWUk)  
+https://youtu.be/pTYC2ANSO9U  
+[![Video demo](https://img.youtube.com/vi/pTYC2ANSO9U/0.jpg)](https://www.youtube.com/watch?v=pTYC2ANSO9U)  
 
 Toy gun used as base:   
 ![](photos/20201205_132038_001.jpg)  
