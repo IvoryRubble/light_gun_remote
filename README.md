@@ -34,10 +34,13 @@ Features:
 Assembled light gun:  
 ![](photos/20231119_162512.jpg)  
 
+USB dongle:  
+![](photos/IMG_20240801_001434.jpg)    
+
 Ir lights:   
 ![](photos/20240801_132602.jpg)  
-![](photos/20231203_180340.jpg)  
-![](photos/20231203_180410.jpg)  
+![](photos/IMG_20240801_001451.jpg)  
+![](photos/IMG_20240801_001457.jpg)  
 
 Usage instruction (see `light_gun.ino` file):  
 ````C++
@@ -57,7 +60,7 @@ Usage instruction (see `light_gun.ino` file):
 ````
 
 
-## Work in progress
+## Making of
 
 Wiring inside the gun:
 ![](photos/20231119_163345.jpg)  
