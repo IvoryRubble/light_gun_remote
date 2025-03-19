@@ -9,6 +9,7 @@ import processing.serial.*;
 
 int lf = 10;    
 Serial myPort;  // The serial port
+String portName = "com4";
 
 // int screenX = 1920;
 // int screenY = 1080;
@@ -38,7 +39,7 @@ int finalY = 0;
 
 int count = 0;
 
-String inputString;
+String inputString = "";
 
 // declare variables to hold color for the four points
 color p1color = color( 255, 0, 0 ); // RED
@@ -54,8 +55,7 @@ int borderY = 200;
 void setup() {
   // List all the available serial ports
   println(Serial.list());
-  // Open the port you are using at the rate you want:
-  myPort = new Serial(this, Serial.list()[2], 115200);
+  myPort = new Serial(this, portName, 115200);
   myPort.clear();
   // Throw out the first reading, in case we started reading
   // in the middle of a string from the sender.
